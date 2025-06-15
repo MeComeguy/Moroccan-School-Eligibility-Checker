@@ -32,7 +32,7 @@ Ce projet est une application web simple et élégante développée en HTML, CSS
 
 Aucune installation particulière n'est requise.
 
-1. Téléchargez le fichier `school_eligibility_checker.html`
+1. Téléchargez le fichier `index.html`
 2. Ouvrez-le dans n'importe quel navigateur web moderne
 
 ---
